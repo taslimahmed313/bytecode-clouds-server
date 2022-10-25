@@ -1,11 +1,11 @@
 [
   {
     "id": "01",
-    "caption": "Software's Fundamental"
+    "category": "Software's Fundamental"
   },
   {
     "id": "02",
-    "caption": "Computer Organization"
+    "category": "Computer Organization"
   },
   {
     "id": "03",
