@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "category": "Software's Fundamental"
+    "category": "Software Fundamentals"
   },
   {
     "id": "02",
@@ -13,7 +13,7 @@
   },
   {
     "id": "04",
-    "category": "Control Structures"
+    "category": "Coding for the Web"
   },
   {
     "id": "05",
@@ -29,6 +29,6 @@
   },
   {
     "id": "08",
-    "category": "Theory of Computation"
+    "category": "PHP With Byte Code"
   }
 ]

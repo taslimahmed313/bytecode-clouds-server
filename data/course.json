@@ -1,17 +1,53 @@
 [
   {
     "id": "1ai",
-    "caption": "Fundamental of Open Source Software",
-    "category_id": "01"
+    "caption": "Software Development Fundamentals",
+    "description": "Software developers are in high demand in the current job market, and computer programming is a prerequisite skill for success in this field.",
+    "category_id": "01",
+    "outline": [
+      "Write a large program in Java",
+      "Identify a set of comprehensive",
+      "Introduce to modern Java software",
+      "Representing a problem in terms of class"
+    ],
+    "img": "https://mallumusic.info/wp-content/uploads/2022/03/Custom-Software-Development.jpg",
+    "details": "Software Engineering Fundamentals provides a comprehensive overview of software engineering and its process, builds on experience drawn from actual practice, and guides engineering students towards a better understanding of various disciplines, tasks, and specialties that contribute to the development of a software product. Intended for both students and professionals, the text follows the full software development life cycle, including a thorough coverage of methods, tools, principles, and guidelines. Software Engineering Fundamentals is unique in its coverage of such topics as software metrics, real-time software design, quality assurance, reliability, risk management, cost and schedule estimation, sizing, planning, test and integration process, technical management, and human factors."
   },
   {
     "id": "2bii",
-    "caption": "Computer Organization Principles",
-    "category_id": "02"
+    "caption": "Principles of Computer Organization",
+    "description": "Principles of Computer Organization is about understanding the inner workings of computer systems from a conceptual standpoint, rather than from an engineering standpoint",
+    "category_id": "02",
+    "outline": [
+      "Familiar with the topics of Cache Memory",
+      "Computer Science in a different dimension",
+      "Able to top grade in your Bachelor's degree ",
+      "Understand how Cache Memory works"
+    ],
+    "img": "https://pbs.twimg.com/media/E-sF5oiWEAcZW13.jpg",
+    "details": "The computer organization deals with the structure and behavior of digital computers. The main objective of this course is to understand the general basic structure of computer hardware, including peripheral devices.Despite the variety and pace in the field of computer science, certain fundamental concepts are applied consistently at all times. The application of these concepts depends on the current state of technology and the price / performance objectives of the designer. The objective of the course is to provide a comprehensive discussion of the fundamentals of computer organization and architecture and relate them to contemporary design issues.A computer system is like any other system, it consists of a set of interrelated components. The system is best characterized in terms of structure, the way they are interconnected, and the function and operation of individual components. "
   },
   {
-    "id": "c3iii",
-    "caption": "Database Management Systems",
-    "category_id": "03"
+    "id": "3ciii",
+    "caption": "Database Management Systems (DBMS)",
+    "description": "",
+    "category_id": "03",
+    "outline": [
+      "History of Database Systems",
+      "Understanding the life cycle",
+      "Data abstraction and database languages",
+      "Database Design Process"
+    ],
+    "img": "https://www.marktechpost.com/wp-content/uploads/2022/02/479-scaled.jpg",
+    "details": "Database Management Essentials provides the foundation you need for a career in database development, data warehousing, or business intelligence, as well as for the entire Data Warehousing for Business Intelligence specialization. In this course, you will create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. As you develop these skills, you will use either Oracle, MySQL, or PostgreSQL to execute SQL statements and a database diagramming tool such as the ER Assistant or Visual Paradigm to create ERDs. We've designed this course to ensure a common foundation for specialization learners. Everyone taking the course can jump right in with writing SQL statements in Oracle, MySQL, or PostgreSQL."
+  },
+  {
+    "id": "",
+    "caption": "",
+    "description": "",
+    "category_id": "",
+    "outline": [],
+    "img": "",
+    "details": ""
   }
 ]
