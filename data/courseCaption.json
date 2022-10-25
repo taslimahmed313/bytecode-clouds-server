@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "caption": "Software's Fundamental"
+  },
+  {
+    "id": "02",
+    "caption": "Computer Organization"
+  },
+  {
+    "id": "03",
+    "category": "Database Management"
+  },
+  {
+    "id": "04",
+    "category": "Control Structures"
+  },
+  {
+    "id": "05",
+    "category": "Master of Data Mining"
+  },
+  {
+    "id": "06",
+    "category": "Dive To Cloud Computing"
+  },
+  {
+    "id": "07",
+    "category": "Hacker's Kali Linux"
+  },
+  {
+    "id": "08",
+    "category": "Theory of Computation"
+  }
+]
