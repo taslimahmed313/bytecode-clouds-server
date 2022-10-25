@@ -2,7 +2,7 @@
   {
     "id": "1ai",
     "caption": "Software Development Fundamentals",
-    "description": "Software developers are in high demand in the current job market, and computer programming is a prerequisite skill for success in this field.",
+    "description": "Software developers are in high demand in the current job market, and computer programming is a prerequisite skill for success in this field. Software is a general term used to describe any set of programs.",
     "category_id": "01",
     "outline": [
       "Write a large program in Java",
@@ -30,7 +30,7 @@
   {
     "id": "3ciii",
     "caption": "Database Management Systems (DBMS)",
-    "description": "",
+    "description": "Database management system (or DBMS) is essentially nothing more than a computerized data-keeping system.Mastering the concepts of DBMS is very important to get started with Computer Science.",
     "category_id": "03",
     "outline": [
       "History of Database Systems",
@@ -42,12 +42,72 @@
     "details": "Database Management Essentials provides the foundation you need for a career in database development, data warehousing, or business intelligence, as well as for the entire Data Warehousing for Business Intelligence specialization. In this course, you will create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. As you develop these skills, you will use either Oracle, MySQL, or PostgreSQL to execute SQL statements and a database diagramming tool such as the ER Assistant or Visual Paradigm to create ERDs. We've designed this course to ensure a common foundation for specialization learners. Everyone taking the course can jump right in with writing SQL statements in Oracle, MySQL, or PostgreSQL."
   },
   {
-    "id": "",
-    "caption": "",
-    "description": "",
-    "category_id": "",
-    "outline": [],
+    "id": "4div",
+    "caption": "Coding for the Web Development",
+    "description": "Web development is the building and maintenance of websites; it’s the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
+    "category_id": "04",
+    "outline": [
+      "Build websites with HTML & CSS",
+      "Work with NoSQL databases like MongoDB",
+      "Build full-stack Using React Framework"
+    ],
+    "img": "https://sm.pcmag.com/pcmag_uk/gallery/t/the-best-f/the-best-free-software-of-2022_3k4j.jpg",
+    "details": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about what it takes' to be a web developer.Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development.Exposure to Three Major Programming LanguagesFirst, Mark will introduce you to HTML5, HyperText Markup Language, used to contain the content elements of web and mobile sites. Next, you'll be introduced to CSS, Cascading StyleSheet Language, used to add design and style to web presentations. Finally, Mark will introduce you to Javascript, one of the most important and fastest growing languages used today."
+  },
+  {
+    "id": "5ev",
+    "caption": "Master of Data Mining and Management",
+    "description": "Data mining is the process of sorting through large data sets to identify patterns and relationships that can help solve business problems through data analysis.Can you learn data mining? Please, Join us.",
+    "category_id": "05",
+    "outline": [
+      "Learn about data mining and scraping",
+      "Look at alternative approaches",
+      "Gain hands-on experience on how to do it"
+    ],
+    "img": "https://wallpaperaccess.com/full/3959310.jpg",
+    "details": "Data mining is a crucial component of successful analytics initiatives in organizations. The information it generates can be used in business intelligence (BI) and advanced analytics applications that involve analysis of historical data, as well as real-time analytics applications that examine streaming data as it's created or collected.Effective data mining aids in various aspects of planning business strategies and managing operations. That includes customer-facing functions such as marketing, advertising, sales and customer support, plus manufacturing, supply chain management, finance and HR. Data mining supports fraud detection, risk management, cybersecurity planning and many other critical business use cases. It also plays an important role in healthcare, government, scientific research, mathematics, sports and more."
+  },
+  {
+    "id": "6fvi",
+    "caption": "Deep Dive To Cloud Computing",
+    "description": "Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services.",
+    "category_id": "06",
+    "outline": [
+      "Implement appropriate security",
+      "Determine proper allocation of cloud resources",
+      "Automation cloud implementations.",
+      "Ensure desired system performance"
+    ],
+    "img": "https://media.istockphoto.com/photos/cloud-computing-the-data-transfer-and-storage-concept-consists-of-a-picture-id1345778718?b=1&k=20&m=1345778718&s=170667a&w=0&h=xPbdZ5MUeM_qOi12Yl99n-cYmEF4DIGIn3M86cCcuQw=",
+    "details": "Rather than owning their own computing infrastructure or data centres, companies can rent access to anything from applications to storage from a cloud service provider.One benefit of using cloud-computing services is that firms can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure, and instead simply pay for what they use, when they use it.In turn, providers of cloud-computing services can benefit from significant economies of scale by delivering the same services to a wide range of customers.Cloud-computing services cover a vast range of options now, from the basics of storage, networking and processing power, through to natural language processing and artificial intelligence as well as standard office applications."
+  },
+  {
+    "id": "7gvii",
+    "caption": "Ethical Hacking With Kali Linux",
+    "description": "Kali Linux is a Debian-based Linux distribution. It is a meticulously crafted OS that specifically caters to the likes of network analysts & penetration testers.Mati Aharoni and Deavon Kearns are the core developers of Kali Linux.",
+    "category_id": "07",
+    "outline": [
+      "Learn Kali linux basics",
+      "Learn ethical hacking and know hackers",
+      "Hack & secure both WiFi & wired networks",
+      "Discover suspicious activities in networks"
+    ],
     "img": "",
-    "details": ""
+    "details": "In this MOOC, you will learn how to hack web apps with command injection vulnerabilities in a web site of your AWS Linux instance.   You will learn how to search valuable information on a typical Linux systems with LAMP services, and deposit and hide Trojans for future exploitation.  You will learn how to patch these web apps with input validation using regular expression. You will learn a security design pattern to avoid introducing injection vulnerabilities by input validation and replacing generic system calls with specific function calls.  You will learn how to hack web apps with SQL injection vulnerabilities and retrieve user profile information and passwords. You will learn the hacking methodology, Nessus tool for scanning vulnerabilities, Kali Linux for penetration testing, and Metasploit Framework for gaining access to vulnerable Windows Systems, deploying keylogger, and perform Remote VNC server injection."
+  },
+  {
+    "id": "8hviii",
+    "caption": "PHP and MYSQL With Byte Code",
+    "description": "PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages. Though its reputation is mixed, PHP is still extremely popular and is used in over 75% of all websites.",
+    "category_id": "08",
+    "outline": [
+      "You will learn MySQL",
+      "You will learn about PHP security",
+      "Password hashing",
+      "You will code refactoring",
+      "You will learn to debug your code"
+    ],
+    "img": "https://img.freepik.com/premium-vector/web-development-programming-laptop-smartphone_73903-163.jpg?size=626&ext=jpg&ga=GA1.2.939492190.1661093851&semt=sph",
+    "details": "Instead of lots of commands to output HTML (as seen in C or Perl), PHP pages contain HTML with embedded code that does 'something' (in this case, output 'Hi, I'm a PHP script!'). The PHP code is enclosed in special start and end processing instructions <?php and ?> that allow you to jump into and out of 'PHP mode.'What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve.The best part about using PHP is that it is extremely simple for a newcomer, but offers many advanced features for a professional programmer. Don't be afraid to read the long list of PHP's features. You can jump in, in a short time, and start writing simple scripts in a few hours."
   }
 ]
