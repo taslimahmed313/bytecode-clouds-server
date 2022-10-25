@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const categories = require('./data/category.json');
+const courses = require('./data/course.json'); 
 
 app.get('/', (req, res) =>{
     res.send('The Bytecode Clouds Courses are Coming !!')
@@ -13,6 +14,10 @@ app.get('/', (req, res) =>{
 
 app.get('/categories', (req, res)=>{
     res.send(categories);
+})
+
+app.get('/course', (req, res)=>{
+    res.send(courses);
 })
 
 app.listen(port, ()=>{
