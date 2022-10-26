@@ -1,6 +1,6 @@
 [
   {
-    "id": "1ai",
+    "_id": "1ai",
     "caption": "Software Development Fundamentals",
     "description": "Software developers are in high demand in the current job market, and computer programming is a prerequisite skill for success in this field. Software is a general term used to describe any set of programs.",
     "category_id": "01",
@@ -14,7 +14,7 @@
     "details": "Software Engineering Fundamentals provides a comprehensive overview of software engineering and its process, builds on experience drawn from actual practice, and guides engineering students towards a better understanding of various disciplines, tasks, and specialties that contribute to the development of a software product. Intended for both students and professionals, the text follows the full software development life cycle, including a thorough coverage of methods, tools, principles, and guidelines. Software Engineering Fundamentals is unique in its coverage of such topics as software metrics, real-time software design, quality assurance, reliability, risk management, cost and schedule estimation, sizing, planning, test and integration process, technical management, and human factors."
   },
   {
-    "id": "2bii",
+    "_id": "2bii",
     "caption": "Principles of Computer Organization",
     "description": "Principles of Computer Organization is about understanding the inner workings of computer systems from a conceptual standpoint, rather than from an engineering standpoint",
     "category_id": "02",
@@ -28,7 +28,7 @@
     "details": "The computer organization deals with the structure and behavior of digital computers. The main objective of this course is to understand the general basic structure of computer hardware, including peripheral devices.Despite the variety and pace in the field of computer science, certain fundamental concepts are applied consistently at all times. The application of these concepts depends on the current state of technology and the price / performance objectives of the designer. The objective of the course is to provide a comprehensive discussion of the fundamentals of computer organization and architecture and relate them to contemporary design issues.A computer system is like any other system, it consists of a set of interrelated components. The system is best characterized in terms of structure, the way they are interconnected, and the function and operation of individual components. "
   },
   {
-    "id": "3ciii",
+    "_id": "3ciii",
     "caption": "Database Management Systems (DBMS)",
     "description": "Database management system (or DBMS) is essentially nothing more than a computerized data-keeping system.Mastering the concepts of DBMS is very important to get started with Computer Science.",
     "category_id": "03",
@@ -38,11 +38,11 @@
       "Data abstraction and database languages",
       "Database Design Process"
     ],
-    "img": "https://www.marktechpost.com/wp-content/uploads/2022/02/479-scaled.jpg",
+    "img": "https://img.freepik.com/free-photo/data-center-with-server-racks-corridor-room-3d-render-digital-data-cloud-technology_482257-27722.jpg?size=626&ext=jpg&ga=GA1.2.939492190.1661093851&semt=sph",
     "details": "Database Management Essentials provides the foundation you need for a career in database development, data warehousing, or business intelligence, as well as for the entire Data Warehousing for Business Intelligence specialization. In this course, you will create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. As you develop these skills, you will use either Oracle, MySQL, or PostgreSQL to execute SQL statements and a database diagramming tool such as the ER Assistant or Visual Paradigm to create ERDs. We've designed this course to ensure a common foundation for specialization learners. Everyone taking the course can jump right in with writing SQL statements in Oracle, MySQL, or PostgreSQL."
   },
   {
-    "id": "4div",
+    "_id": "4div",
     "caption": "Coding for the Web Development",
     "description": "Web development is the building and maintenance of websites; it’s the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.",
     "category_id": "04",
@@ -55,7 +55,7 @@
     "details": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about what it takes' to be a web developer.Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development.Exposure to Three Major Programming LanguagesFirst, Mark will introduce you to HTML5, HyperText Markup Language, used to contain the content elements of web and mobile sites. Next, you'll be introduced to CSS, Cascading StyleSheet Language, used to add design and style to web presentations. Finally, Mark will introduce you to Javascript, one of the most important and fastest growing languages used today."
   },
   {
-    "id": "5ev",
+    "_id": "5ev",
     "caption": "Master of Data Mining and Management",
     "description": "Data mining is the process of sorting through large data sets to identify patterns and relationships that can help solve business problems through data analysis.Can you learn data mining? Please, Join us.",
     "category_id": "05",
@@ -68,7 +68,7 @@
     "details": "Data mining is a crucial component of successful analytics initiatives in organizations. The information it generates can be used in business intelligence (BI) and advanced analytics applications that involve analysis of historical data, as well as real-time analytics applications that examine streaming data as it's created or collected.Effective data mining aids in various aspects of planning business strategies and managing operations. That includes customer-facing functions such as marketing, advertising, sales and customer support, plus manufacturing, supply chain management, finance and HR. Data mining supports fraud detection, risk management, cybersecurity planning and many other critical business use cases. It also plays an important role in healthcare, government, scientific research, mathematics, sports and more."
   },
   {
-    "id": "6fvi",
+    "_id": "6fvi",
     "caption": "Deep Dive To Cloud Computing",
     "description": "Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services.",
     "category_id": "06",
@@ -82,8 +82,8 @@
     "details": "Rather than owning their own computing infrastructure or data centres, companies can rent access to anything from applications to storage from a cloud service provider.One benefit of using cloud-computing services is that firms can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure, and instead simply pay for what they use, when they use it.In turn, providers of cloud-computing services can benefit from significant economies of scale by delivering the same services to a wide range of customers.Cloud-computing services cover a vast range of options now, from the basics of storage, networking and processing power, through to natural language processing and artificial intelligence as well as standard office applications."
   },
   {
-    "id": "7gvii",
-    "caption": "Ethical Hacking With Kali Linux",
+    "_id": "7gvii",
+    "caption": "Ethical Hacking Using Kali Linux",
     "description": "Kali Linux is a Debian-based Linux distribution. It is a meticulously crafted OS that specifically caters to the likes of network analysts & penetration testers.Mati Aharoni and Deavon Kearns are the core developers of Kali Linux.",
     "category_id": "07",
     "outline": [
@@ -92,11 +92,11 @@
       "Hack & secure both WiFi & wired networks",
       "Discover suspicious activities in networks"
     ],
-    "img": "",
+    "img": "https://img.freepik.com/free-vector/data-protection-technology-template-vector-with-lock-icon_53876-126049.jpg?size=626&ext=jpg&ga=GA1.2.939492190.1661093851&semt=sph",
     "details": "In this MOOC, you will learn how to hack web apps with command injection vulnerabilities in a web site of your AWS Linux instance.   You will learn how to search valuable information on a typical Linux systems with LAMP services, and deposit and hide Trojans for future exploitation.  You will learn how to patch these web apps with input validation using regular expression. You will learn a security design pattern to avoid introducing injection vulnerabilities by input validation and replacing generic system calls with specific function calls.  You will learn how to hack web apps with SQL injection vulnerabilities and retrieve user profile information and passwords. You will learn the hacking methodology, Nessus tool for scanning vulnerabilities, Kali Linux for penetration testing, and Metasploit Framework for gaining access to vulnerable Windows Systems, deploying keylogger, and perform Remote VNC server injection."
   },
   {
-    "id": "8hviii",
+    "_id": "8hviii",
     "caption": "PHP and MYSQL With Byte Code",
     "description": "PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages. Though its reputation is mixed, PHP is still extremely popular and is used in over 75% of all websites.",
     "category_id": "08",
