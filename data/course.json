@@ -2,7 +2,7 @@
   {
     "_id": "1ai",
     "caption": "Software Development Fundamentals",
-    "description": "Software developers are in high demand in the current job market, and computer programming is a prerequisite skill for success in this field. Software is a general term used to describe any set of programs.",
+    "description": "Software developers are in high demand in the current job market.",
     "category_id": "01",
     "outline": [
       "Write a large program in Java",
@@ -10,6 +10,11 @@
       "Introduce to modern Java software",
       "Representing a problem in terms of class"
     ],
+    "price": "12.99",
+    "discountPrice": "19.99",
+    "instructor": "Mac Noland jr",
+    "rating": "4.5",
+    "rater": "9087",
     "img": "https://mallumusic.info/wp-content/uploads/2022/03/Custom-Software-Development.jpg",
     "details": "Software Engineering Fundamentals provides a comprehensive overview of software engineering and its process, builds on experience drawn from actual practice, and guides engineering students towards a better understanding of various disciplines, tasks, and specialties that contribute to the development of a software product. Intended for both students and professionals, the text follows the full software development life cycle, including a thorough coverage of methods, tools, principles, and guidelines. Software Engineering Fundamentals is unique in its coverage of such topics as software metrics, real-time software design, quality assurance, reliability, risk management, cost and schedule estimation, sizing, planning, test and integration process, technical management, and human factors."
   },
@@ -24,6 +29,11 @@
       "Able to top grade in your Bachelor's degree ",
       "Understand how Cache Memory works"
     ],
+    "price": "13.99",
+    "discountPrice": "23.99",
+    "instructor": "Lakis Lumbana",
+    "rating": "4.1",
+    "rater": "3456",
     "img": "https://pbs.twimg.com/media/E-sF5oiWEAcZW13.jpg",
     "details": "The computer organization deals with the structure and behavior of digital computers. The main objective of this course is to understand the general basic structure of computer hardware, including peripheral devices.Despite the variety and pace in the field of computer science, certain fundamental concepts are applied consistently at all times. The application of these concepts depends on the current state of technology and the price / performance objectives of the designer. The objective of the course is to provide a comprehensive discussion of the fundamentals of computer organization and architecture and relate them to contemporary design issues.A computer system is like any other system, it consists of a set of interrelated components. The system is best characterized in terms of structure, the way they are interconnected, and the function and operation of individual components. "
   },
@@ -38,6 +48,11 @@
       "Data abstraction and database languages",
       "Database Design Process"
     ],
+    "price": "14.99",
+    "discountPrice": "21.99",
+    "instructor": "Andrew State",
+    "rating": "4.5",
+    "rater": "6543",
     "img": "https://img.freepik.com/free-photo/data-center-with-server-racks-corridor-room-3d-render-digital-data-cloud-technology_482257-27722.jpg?size=626&ext=jpg&ga=GA1.2.939492190.1661093851&semt=sph",
     "details": "Database Management Essentials provides the foundation you need for a career in database development, data warehousing, or business intelligence, as well as for the entire Data Warehousing for Business Intelligence specialization. In this course, you will create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy. As you develop these skills, you will use either Oracle, MySQL, or PostgreSQL to execute SQL statements and a database diagramming tool such as the ER Assistant or Visual Paradigm to create ERDs. We've designed this course to ensure a common foundation for specialization learners. Everyone taking the course can jump right in with writing SQL statements in Oracle, MySQL, or PostgreSQL."
   },
@@ -51,6 +66,11 @@
       "Work with NoSQL databases like MongoDB",
       "Build full-stack Using React Framework"
     ],
+    "price": "10.99",
+    "discountPrice": "16.99",
+    "instructor": "Josa Portila",
+    "rating": "4.7",
+    "rater": "12304",
     "img": "https://sm.pcmag.com/pcmag_uk/gallery/t/the-best-f/the-best-free-software-of-2022_3k4j.jpg",
     "details": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about what it takes' to be a web developer.Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development.Exposure to Three Major Programming LanguagesFirst, Mark will introduce you to HTML5, HyperText Markup Language, used to contain the content elements of web and mobile sites. Next, you'll be introduced to CSS, Cascading StyleSheet Language, used to add design and style to web presentations. Finally, Mark will introduce you to Javascript, one of the most important and fastest growing languages used today."
   },
@@ -64,6 +84,11 @@
       "Look at alternative approaches",
       "Gain hands-on experience on how to do it"
     ],
+    "price": "11.99",
+    "discountPrice": "16.99",
+    "instructor": "Cris Jordan",
+    "rating": "4.8",
+    "rater": "1546",
     "img": "https://wallpaperaccess.com/full/3959310.jpg",
     "details": "Data mining is a crucial component of successful analytics initiatives in organizations. The information it generates can be used in business intelligence (BI) and advanced analytics applications that involve analysis of historical data, as well as real-time analytics applications that examine streaming data as it's created or collected.Effective data mining aids in various aspects of planning business strategies and managing operations. That includes customer-facing functions such as marketing, advertising, sales and customer support, plus manufacturing, supply chain management, finance and HR. Data mining supports fraud detection, risk management, cybersecurity planning and many other critical business use cases. It also plays an important role in healthcare, government, scientific research, mathematics, sports and more."
   },
@@ -78,6 +103,11 @@
       "Automation cloud implementations.",
       "Ensure desired system performance"
     ],
+    "price": "13.99",
+    "discountPrice": "22.99",
+    "instructor": "Anglea Haris",
+    "rating": "4.3",
+    "rater": "7642",
     "img": "https://media.istockphoto.com/photos/cloud-computing-the-data-transfer-and-storage-concept-consists-of-a-picture-id1345778718?b=1&k=20&m=1345778718&s=170667a&w=0&h=xPbdZ5MUeM_qOi12Yl99n-cYmEF4DIGIn3M86cCcuQw=",
     "details": "Rather than owning their own computing infrastructure or data centres, companies can rent access to anything from applications to storage from a cloud service provider.One benefit of using cloud-computing services is that firms can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure, and instead simply pay for what they use, when they use it.In turn, providers of cloud-computing services can benefit from significant economies of scale by delivering the same services to a wide range of customers.Cloud-computing services cover a vast range of options now, from the basics of storage, networking and processing power, through to natural language processing and artificial intelligence as well as standard office applications."
   },
@@ -92,6 +122,11 @@
       "Hack & secure both WiFi & wired networks",
       "Discover suspicious activities in networks"
     ],
+    "price": "14.99",
+    "discountPrice": "17.99",
+    "instructor": "Joris Lame",
+    "rating": "4.4",
+    "rater": "8976",
     "img": "https://img.freepik.com/free-vector/data-protection-technology-template-vector-with-lock-icon_53876-126049.jpg?size=626&ext=jpg&ga=GA1.2.939492190.1661093851&semt=sph",
     "details": "In this MOOC, you will learn how to hack web apps with command injection vulnerabilities in a web site of your AWS Linux instance.   You will learn how to search valuable information on a typical Linux systems with LAMP services, and deposit and hide Trojans for future exploitation.  You will learn how to patch these web apps with input validation using regular expression. You will learn a security design pattern to avoid introducing injection vulnerabilities by input validation and replacing generic system calls with specific function calls.  You will learn how to hack web apps with SQL injection vulnerabilities and retrieve user profile information and passwords. You will learn the hacking methodology, Nessus tool for scanning vulnerabilities, Kali Linux for penetration testing, and Metasploit Framework for gaining access to vulnerable Windows Systems, deploying keylogger, and perform Remote VNC server injection."
   },
@@ -107,7 +142,34 @@
       "You will code refactoring",
       "You will learn to debug your code"
     ],
+    "price": "8.99",
+    "discountPrice": "15.99",
+    "instructor": "Robbert Harray",
+    "rating": "4.6",
+    "rater": "7865",
     "img": "https://img.freepik.com/premium-vector/web-development-programming-laptop-smartphone_73903-163.jpg?size=626&ext=jpg&ga=GA1.2.939492190.1661093851&semt=sph",
     "details": "Instead of lots of commands to output HTML (as seen in C or Perl), PHP pages contain HTML with embedded code that does 'something' (in this case, output 'Hi, I'm a PHP script!'). The PHP code is enclosed in special start and end processing instructions <?php and ?> that allow you to jump into and out of 'PHP mode.'What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve.The best part about using PHP is that it is extremely simple for a newcomer, but offers many advanced features for a professional programmer. Don't be afraid to read the long list of PHP's features. You can jump in, in a short time, and start writing simple scripts in a few hours."
+  },
+  {
+    "_id": "9iix",
+    "caption": "Master On Data Structures Plus Algorithms",
+    "description": "A data structure is a method of organizing data in a virtual system. Think of sequences of numbers, or tables of data: these are both well-defined data structures.An algorithm is a sequence of steps executed by a computer",
+    "category_id": "08",
+    "outline": [
+      "Ace coding interviews given by some of the top tech companies",
+      "Learn, implement, and use different Data Structures",
+      "Get more interviews",
+      "Become a better developer by mastering computer science fundamentals",
+      "Become a better developer by mastering computer science fundamentals",
+      "Learn, implement and use different Algorithms",
+      "Become more confident and prepared for your next coding interview"
+    ],
+    "price": "17.99",
+    "discountPrice": "43.99",
+    "instructor": "Andreio Neagio",
+    "rating": "4.9",
+    "rater": "78653",
+    "img": "https://i.redd.it/nflafw75q6a91.jpg",
+    "details": "Updated for the 2022 hiring season! Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a senior developer. Graduates of this course are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook + other top tech companies.Want to land a job at a great tech company like Google, Microsoft, Facebook, Netflix, Amazon, or other companies but you are intimidated by the interview process and the coding questions? Do you find yourself feeling like you get stuck every time you get asked a coding question? This course is your answer. Using the strategies, lessons, and exercises in this course, you will learn how to land offers from all sorts of companies.Many developers who are self taught, feel that one of the main disadvantages they face compared to college educated graduates in computer science is the fact that they don't have knowledge about algorithms, data structures and the notorious Big-O Notation. Get on the same level as someone with computer science degree by learning the fundamental building blocks of computer science which will give you a big boost during interviews. You will also get access to our private online chat community with thousands of developers online to help you get through the course."
   }
 ]
