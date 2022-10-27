@@ -5,10 +5,12 @@
     "description": "Software developers are in high demand in the current job market.",
     "category_id": "01",
     "outline": [
-      "Write a large program in Java",
-      "Identify a set of comprehensive",
-      "Introduce to modern Java software",
-      "Representing a problem in terms of class"
+      "Understand what it takes to become a software developer",
+      "Organize and optimize your work using Agile, Scrum and Kanban",
+      "Study Computer Science fundamentals like data structures and algorithms",
+      "Use UML to communicate effectively with other developers",
+      "Learn about the various career paths in software development",
+      "Get insights into the daily activities of a professional software develope"
     ],
     "price": "12.99",
     "discountPrice": "19.99",
@@ -27,7 +29,9 @@
       "Familiar with the topics of Cache Memory",
       "Computer Science in a different dimension",
       "Able to top grade in your Bachelor's degree ",
-      "Understand how Cache Memory works"
+      "Understand how mapping techniques work from RAM to Cache",
+      "Understand how Cache Memory works",
+      "You will be able to challenge the interviewer on questions related to Computer Architecture & Organization"
     ],
     "price": "13.99",
     "discountPrice": "23.99",
@@ -46,7 +50,9 @@
       "History of Database Systems",
       "Understanding the life cycle",
       "Data abstraction and database languages",
-      "Database Design Process"
+      "Database Design Process",
+      "You will view Computer Science in a different dimension",
+      "You will be able to challenge the interviewer on questions related to Database Management Systems"
     ],
     "price": "14.99",
     "discountPrice": "21.99",
@@ -64,7 +70,10 @@
     "outline": [
       "Build websites with HTML & CSS",
       "Work with NoSQL databases like MongoDB",
-      "Build full-stack Using React Framework"
+      "Build full-stack Using React Framework",
+      "Build fully-fledged websites and web apps for your startup or business.",
+      "After the course you will be able to build ANY website you want",
+      "Learn professional developer best practices."
     ],
     "price": "10.99",
     "discountPrice": "16.99",
@@ -82,7 +91,10 @@
     "outline": [
       "Learn about data mining and scraping",
       "Look at alternative approaches",
-      "Gain hands-on experience on how to do it"
+      "Gain hands-on experience on how to do it",
+      "Perform linear and logistic regressions in Python",
+      "Apply your skills to real-life business cases",
+      "Start coding in Python and learn how to use it for statistical analysis"
     ],
     "price": "11.99",
     "discountPrice": "16.99",
@@ -101,7 +113,9 @@
       "Implement appropriate security",
       "Determine proper allocation of cloud resources",
       "Automation cloud implementations.",
-      "Ensure desired system performance"
+      "Ensure desired system performance",
+      "Develop hands-on skills using core Amazon Web Services (AWS) services",
+      "Build knowledge from beginner level to advanced concepts"
     ],
     "price": "13.99",
     "discountPrice": "22.99",
@@ -120,7 +134,9 @@
       "Learn Kali linux basics",
       "Learn ethical hacking and know hackers",
       "Hack & secure both WiFi & wired networks",
-      "Discover suspicious activities in networks"
+      "Discover suspicious activities in networks",
+      "Learn linux commands & how to interact with the terminal.",
+      "Redirect DNS requests to any destination (DNS spoofing)."
     ],
     "price": "14.99",
     "discountPrice": "17.99",
@@ -140,7 +156,8 @@
       "You will learn about PHP security",
       "Password hashing",
       "You will code refactoring",
-      "You will learn to debug your code"
+      "You will learn to debug your code",
+      "Answer company performance or sales questions using data"
     ],
     "price": "8.99",
     "discountPrice": "15.99",
@@ -154,7 +171,7 @@
     "_id": "9iix",
     "caption": "Master On Data Structures Plus Algorithms",
     "description": "A data structure is a method of organizing data in a virtual system. Think of sequences of numbers, or tables of data: these are both well-defined data structures.An algorithm is a sequence of steps executed by a computer",
-    "category_id": "08",
+    "category_id": "09",
     "outline": [
       "Ace coding interviews given by some of the top tech companies",
       "Learn, implement, and use different Data Structures",
