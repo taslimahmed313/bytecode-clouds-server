@@ -9,7 +9,7 @@ const categories = require('./data/category.json');
 const courses = require('./data/course.json'); 
 
 app.get('/', (req, res) =>{
-    res.send('The Bytecode Clouds Courses are Coming !!')
+    res.send('The Bytecode Clouds Courses Data Loading !!')
 })
 
 app.get('/categories', (req, res)=>{
